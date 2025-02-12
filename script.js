@@ -51,7 +51,3 @@ document.addEventListener("DOMContentLoaded", function() {
         banner.style.display = "none";
     });
 });
-
-
-
-// C mon code petit bouffon
